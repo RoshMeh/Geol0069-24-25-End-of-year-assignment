@@ -144,7 +144,12 @@ Environmental cost considerations were factored into the project, highlighting t
 - Expand training datasets to improve model generalisation across regions and land cover types.
 - Optimise model architectures and training workflows to reduce environmental impact while maintaining high accuracy.
 
+# Contact
 
+Roshan Mehta - [roshan.mehta.21@ucl.ac.uk](mailto:roshan.mehta.21@ucl.ac.uk) / [roshansmehta@gmail.com](mailto:roshansmehta@gmail.com) / [www.linkedin.com/in/mehta-roshan](www.linkedin.com/in/mehta-roshan)
+
+# Acknowledgments
+This project was created for GEOL0069 at University College London, taught by Dr. Michel Tsamados and Weibin Chen.
 
 # References
 
