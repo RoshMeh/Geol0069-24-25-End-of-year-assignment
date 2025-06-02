@@ -40,7 +40,7 @@ In this project, we investigate the use of Sentinel 2 imagery combined with mach
 
 # Infographic Overview
 
-![Infogram]([https://github.com/captainbluebear/GEOL0069-ML-Inland-Water-Body-Detection/assets/59548582/b0ee89f0-dc7c-4f6a-8d12-c1edc238c521](https://github.com/RoshMeh/Geol0069-24-25-End-of-year-assignment/blob/main/Infogram.PNG))
+![Infogram](Infogram.PNG)
 
 This infographic provides a comprehensive visual overview of the entire workflow for detecting deforestation using Sentinel 2 satellite imagery. It highlights both supervised (CNN) and unsupervised (K means) approaches, complemented by environmental impact monitoring.
 
