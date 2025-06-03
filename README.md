@@ -144,6 +144,13 @@ Environmental cost considerations were factored into the project, highlighting t
 - Expand training datasets to improve model generalisation across regions and land cover types.
 - Optimise model architectures and training workflows to reduce environmental impact while maintaining high accuracy.
 
+
+  <!-- VIDEO -->
+## Tutorial video
+
+For more details on the the different sections of the code please see the video below:
+[![Watch the video](https://img.youtube.com/vi/Zy8NwD-_J_8/0.jpg)](https://youtu.be/Zy8NwD-_J_8)
+
 # Contact
 
 Roshan Mehta - [roshan.mehta.21@ucl.ac.uk](mailto:roshan.mehta.21@ucl.ac.uk) / [roshansmehta@gmail.com](mailto:roshansmehta@gmail.com) / [www.linkedin.com/in/mehta-roshan](www.linkedin.com/in/mehta-roshan)
