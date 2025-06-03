@@ -7,6 +7,20 @@ This project investigates the use of Earth Observation (EO) data in combination 
 
 The project harnesses **Sentinel-2** multi-temporal optical imagery and applies both supervised deep learning models (CNNs) and unsupervised clustering methods (K-means) to detect changes in vegetation cover.
 
+## Table of Contents
+- [Code Structure](#code-structure)
+- [Why It Matters](#why-it-matters)
+- [Background](#background)
+- [Infographic Overview](#infographic-overview)
+- [Sentinel 2 Satellite and Deforestation Detection](#sentinel-2-satellite-and-deforestation-detection)
+- [Machine Learning Methodology](#machine-learning-methodology)
+- [Conclusion](#conclusion)
+- [Tutorial Video](#tutorial-video)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
+- [References](#references)
+
+
 ## Code Structure
 - Utilizes **Sentinel-2 Level-1C and Level-2A imagery** (multi-spectral, high-resolution data).
 - Calculates the **Normalized Difference Vegetation Index (NDVI)** to track temporal changes in vegetation.
